@@ -30,3 +30,15 @@ lista de Numeros
      --|--|--
      1|Tiago|4,0
      2|Eustaquio|10,0
+
+Código
+Exemplo de como colocar um comando no meio do texto: 'System.out.println();'
+
+Códigos Maiores(tres crases):
+
+```
+System.out.println();
+if(a == 2){
+System.out.println();
+}
+```
